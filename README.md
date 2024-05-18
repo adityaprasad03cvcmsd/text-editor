@@ -32,6 +32,7 @@ Once the editor is running, you can use the following commands:
 
 - `new_file <text>`: Delete text from the specified position with the given length
 - `findreplace <find> <replace>`: Find and replace text within the content
+- `find <find>`: Find the text within the content
 - `save`: Save the content to a file
 - `open <filename>`: Open an existing file
 - `edit`: Edit the content of the opened file
