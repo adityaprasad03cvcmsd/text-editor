@@ -18,7 +18,7 @@ This is a terminal-based text editor implemented in Node.js. It allows users to 
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/adityaprasad03cvcmsd/text-editor.git
 ```
 
 2. Install:
