@@ -4,7 +4,7 @@ let global = require("../global");
 const rl = require("../readlineInterface");
 
 const saveFile = () => {
-    if (!global.isSaved) {
+    if (global.isSaved) {
         return;
     }
 
